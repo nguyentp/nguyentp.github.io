@@ -1,7 +1,7 @@
 ---
 title: 容疑者X
 date: 2026-11-07 00:00:00 +0900
-tags: [ML, Checklist]
+tags: [Novel]
 render_with_liquid: false
 ---
 
