@@ -167,6 +167,8 @@ defaults:
 
 sass:
   style: compressed
+  # Silence upstream Sass @import deprecation warnings (theme's _sass/*)
+  silence_deprecations: ["import"]
 
 compress_html:
   clippings: all
