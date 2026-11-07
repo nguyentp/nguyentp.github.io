@@ -3,6 +3,8 @@ title: 容疑者X
 date: 2026-11-07 00:00:00 +0900
 tags: [Novel]
 render_with_liquid: false
+paginate_novel: true
+novel_path: novel/you-gi-sha-xno-ken-shin
 ---
 
 

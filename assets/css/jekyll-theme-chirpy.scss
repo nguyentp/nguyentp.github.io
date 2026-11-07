@@ -1,0 +1,10 @@
+---
+---
+
+@import 'main';
+
+/* Larger base font size (1.5x the default 16px) for easier reading on mobile.
+   Everything else uses rem units, so this scales the whole site. */
+:root {
+  font-size: 24px;
+}
